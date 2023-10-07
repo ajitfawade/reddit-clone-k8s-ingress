@@ -79,10 +79,10 @@ Password: prom-operator
 For creating a dashboard to monitor the cluster:
 
 ```sh
-Click '+' button on the left panel and select ‘Import’.
+Click the '+' button on the left panel and select ‘Import’.
 Enter 12740 dashboard id under Grafana.com Dashboard.
 Click ‘Load’.
-Select ‘Prometheus’ as the endpoint under prometheus data sources drop down.
+Select ‘Prometheus’ as the endpoint under the Prometheus data sources drop-down.
 Click ‘Import’.
 ```
 
