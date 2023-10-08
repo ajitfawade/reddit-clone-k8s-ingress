@@ -39,7 +39,7 @@ Key Components :
 - Grafana - Visualize scraped data in UI
 
 Pre Requisites :
-- EKS Cluster is setup already
+- EKS Cluster is set already
 - Install Helm
 - EC2 instance to access EKS cluster
 
